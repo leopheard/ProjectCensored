@@ -7,6 +7,8 @@ Project Censored podcasts
 
 Censorship undermines democracy. An informed public is crucial to democracy in at least two basic ways.  First, without access to relevant news and opinion, people cannot fully participate in government. Second, without media literacy, people cannot evaluate for themselves the quality or significance of the news they receive. Project Censored’s work highlights the important links among a free press, media literacy, and democratic self-government.<br>
 
+<a href="www.kodi.tv">Kodi</a> (formerly known as XBMC) is an award-winning free and open source (GPL) software media player and entertainment hub that can be installed on Linux, OSX, Windows, iOS and Android, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.<br>
+
 ^^^ To install this addon, either use the <a href="https://www.tvaddons.co/github-browser-kodi/">Kodi Github installer</a> addon or save the .zip file downloaded from the 'clone or download' button above to somewhere the Kodi can access (e.g. network drive or USB stick). Then on the Kodi, go to addons > install from zip file.<br>
 
 <img src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9c/0a/1e/9c0a1e34-7f7a-aecc-4b90-be410bf95bf5/mza_9015145626714141933.jpg/939x0w.jpg"><br>
